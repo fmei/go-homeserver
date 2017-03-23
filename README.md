@@ -5,7 +5,7 @@ It is also planned to implement basic sorting functionality. This should take fi
 
 ## Using the project
 ### Setup
-npm install
+bower update
 ### Packaging
 grunt
 ### Running
