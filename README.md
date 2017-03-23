@@ -5,3 +5,12 @@ It is also planned to implement basic sorting functionality. This should take fi
 
 ## Useful tools for this project
 https://www.npmjs.com/package/generator-go-angular
+
+## Technologies 
+
+### Webserver
+go
+### WebUI
+AngularJS (https://angularjs.org/)
+PatternFly (https://www.patternfly.org/)
+
