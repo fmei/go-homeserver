@@ -5,8 +5,13 @@ It is also planned to implement basic sorting functionality. This should take fi
 
 ## Using the project
 ### Setup
-bower update
-### Packaging
+#### Global
+npm install -g generator-go-angular
+npm install -g grunt-cli
+#### Project
+npm install
+bower update (Select newest jQuery dependency)
+### Packaging / testing
 grunt
 ### Running
 grunt goserver
